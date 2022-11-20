@@ -80,6 +80,7 @@ a.active {
 }
 
 .hero-btn{
+    font-weight: 700;
     font-family: inherit;
     font-size: 16px;
     line-height: 1.88;
